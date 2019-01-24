@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF Mail Merge", "PDF Mail Merge\PDF Mail Merge.csproj", "{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDF Mail Merge Tests", "PDF Mail Merge Tests\PDF Mail Merge Tests.csproj", "{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{721C70DB-B8BD-479A-ABDD-696E7CB5594D}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		PDF Mail Merge.vsmdi = PDF Mail Merge.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs27
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = PDF\u0020Mail\u0020Merge\u0020Tests\\PDF\u0020Mail\u0020Merge\u0020Tests.csproj
+		SccProjectName1 = PDF\u0020Mail\u0020Merge\u0020Tests
+		SccLocalPath1 = PDF\u0020Mail\u0020Merge\u0020Tests
+		SccProjectUniqueName2 = PDF\u0020Mail\u0020Merge\\PDF\u0020Mail\u0020Merge.csproj
+		SccProjectName2 = PDF\u0020Mail\u0020Merge
+		SccLocalPath2 = PDF\u0020Mail\u0020Merge
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = PDF Mail Merge.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Debug|x64.ActiveCfg = Debug|x64
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Debug|x64.Build.0 = Debug|x64
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Debug|x86.ActiveCfg = Debug|x86
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Debug|x86.Build.0 = Debug|x86
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Release|x64.ActiveCfg = Release|x64
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Release|x64.Build.0 = Release|x64
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Release|x86.ActiveCfg = Release|x86
+		{72ABEFAC-8502-4CCA-BB35-97F5FDA6580D}.Release|x86.Build.0 = Release|x86
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Debug|x64.ActiveCfg = Debug|x64
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Debug|x64.Build.0 = Debug|x64
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Debug|x86.ActiveCfg = Debug|x86
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Debug|x86.Build.0 = Debug|x86
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Release|x64.ActiveCfg = Release|x64
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Release|x64.Build.0 = Release|x64
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Release|x86.ActiveCfg = Release|x86
+		{B1FCF0BD-B61B-4255-A4C1-971BBD11A324}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
